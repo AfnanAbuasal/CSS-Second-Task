@@ -1,0 +1,16 @@
+div {
+    text-align: center;
+}
+
+.gray {
+    color: gray;
+}
+
+.members {
+    float: left;
+    width: 30%;
+}
+
+.clearFix {
+    clear: both;
+}
